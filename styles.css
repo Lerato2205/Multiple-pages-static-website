@@ -1,0 +1,21 @@
+body {
+  font: sans-serif;
+  background-color: rgb(55, 39, 39);
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+  display: block;
+}
+img {
+  max-width: 35%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
